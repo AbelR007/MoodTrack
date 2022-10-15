@@ -71,7 +71,7 @@ fun MoodTrackScreen() {
         floatingActionButtonPosition = FabPosition.Center,
         isFloatingActionButtonDocked = true,
         content = { innerPadding ->
-            Text("JO")
+            Text("Main Page")
         }
     )
 }
